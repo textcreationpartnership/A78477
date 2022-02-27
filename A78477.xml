@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine observations on that letter written to the two Houses from the Army. Dated at Reading the 8th. of Iuly, 1647. Written for the satisfaction of a private friend, and may serve for the whole kingdome. Whereunto is added the letter upon which these observations were made.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78477</idno>
+            <idno type="STC">Wing C1712</idno>
+            <idno type="STC">Thomason E398_10</idno>
+            <idno type="STC">ESTC R201687</idno>
+            <idno type="EEBO-CITATION">99862187</idno>
+            <idno type="PROQUEST">99862187</idno>
+            <idno type="VID">114338</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78477)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114338)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E398[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine observations on that letter written to the two Houses from the Army. Dated at Reading the 8th. of Iuly, 1647. Written for the satisfaction of a private friend, and may serve for the whole kingdome. Whereunto is added the letter upon which these observations were made.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671. Two letters from His Excellency Sir Thomas Fairfax.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The "letter upon which these observations were made" was first published as part of: Fairfax, Thomas.  Two letters from His Excellency Sir Thomas Fairfax (Wing F244).</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671. --  Two letters from His Excellency Sir Thomas Fairfax --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114338:1" rendition="simple:additions"/>
+            <p>Certaine Obſervations ON THAT LETTER WRITTEN TO THE TWO HOVSES FROM THE ARMY.</p>
+            <p>Dated at <hi>Reading</hi> the 8<hi>
+                  <hi rend="sup">th</hi>.</hi> of <hi>Iuly,</hi> 1647.</p>
+            <p>Written for the ſatisfaction of a private Friend, and may ſerve for the whole KINGDOME.</p>
+            <p>Whereunto is added the Letter upon which theſe Obſervations were made.</p>
+            <p>Printed in the Yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114338:2"/>
+            <pb n="1" facs="tcp:114338:2"/>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>IT was your deſire that I ſhould render you my obſervations upon that Letter which was written in the name of the Army, Signed by S<hi rend="sup">t</hi>. <hi>Thomas Fairfax,</hi> bearing date from <hi>Reading</hi> the 8<hi rend="sup">th</hi>. of <hi>July.</hi> 1647 I muſt confeſs I have very much heretofore juſtified the proceeding, of the Army, and it was my opinion that they had very cleare intentions for the good of the King and the Kingdome.</p>
+            <p>But I now feare I was miſtaken; for although I yet retaine a very charitable opinion of the Army in generall, yet conſidering the dilatory and intricate proceedings of thoſe chiefe Officers, who now act and ne<g ref="char:EOLhyphen"/>gotiate with the Parliament in what concernes the Kingdome, I doe not conceive them men of ſuch unſpotted integrity as I ſuppoſed they were. For either they are ſelfe-ſeekers, or have ſelfe-intereſts in the managing and tranſacting of affaires; elſe why do they not deale clearely and plainly to the open underſtanding of all men who are concerned in the peace and ſettlement of the Kingdome?</p>
+            <p>It is evident that there is but one truth, and that is, or ought to be manifeſt, and needs not put on any veile or diſguiſe to obſcure or ſha<g ref="char:EOLhyphen"/>dow it; but the more open and naked it is, the more naturall and lovely it appeares.</p>
+            <p>If the Army beleeve that they owe Allegiance and obedience to his Ma<g ref="char:EOLhyphen"/>jeſtie, as their lawfull King, why ſhould they not pay him that, dutie and reſpect they owe Him as Subjects, and not endeavour to make the world beleeve, as they ſeem to do in this Letter, that the civility they pay him is matter of Courteſie, and not duty?</p>
+            <p>The Army pretends <hi>to maintaine the Law of the Land,</hi> Let them in the firſt place, if they really intend as they ſpeak, and as they write, reſtore his Majeſtie to his Crowne and Dignity, who is the fountaine and life of the Law. Let them not court the two Houſes with arguments <hi>of conveniency, and offering of humble adviſes to perſwade them to ſuffer his Majeſty to ſee his Children,</hi> which is a thing ſo agreeable to nature, and ſo conſonant to reaſon and religion, that they may juſtifie to all the world the uſing of violence to compell ſo juſt an act, and declaring thoſe unnaturall Rebells and traytors who detain his Majeſties Children from waiting on Him.</p>
+            <p>Why ſhould the Army excuſe themſelves, as if it were a fault to treat with his Majeſty, &amp; to make conditions with him for their own peace and ſafety, or to obtaine from him an aſſurance that they ſhall enjoy that liber<g ref="char:EOLhyphen"/>ty of conſcience they deſire? For I beleeve Judge <hi>Jenkins</hi> hath inſtructed
+<pb n="2" facs="tcp:114338:3"/> them ſufficiently, from whom they muſt receive their pardon. It muſt be an Act of his Majeſties grace and ſavour that muſt ſecure them, no Ordi<g ref="char:EOLhyphen"/>dinance of the Houſes.</p>
+            <p>And for my part, I beleeve it to be ill Logique, and worſe Law <hi>to diſ<g ref="char:EOLhyphen"/>poſe the ſettling of his Majeſties rights in the ſecond place;</hi> for if h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Ma<g ref="char:EOLhyphen"/>jeſtie be not firſt reſtored, and in a condition of being abſolute in himſelf, that ſo without conſtraint, he may freely act what is deſired for the good and liberty of the Subject, I beleeve his preceding acts will not be ſo ob<g ref="char:EOLhyphen"/>liging and valid, as otherwaies they would be.</p>
+            <p>I am ſorry to underſtand in this Letter, that <hi>His Majeſtie is avowed by the Army to be a Priſoner,</hi> which is contrary to what they formerly pro<g ref="char:EOLhyphen"/>feſſed; for their phraſe in this Letter is, <hi>That his Majeſtie ſhould find all perſonall Civilities and reſpects from us, with all reaſonable freedome that might ſtand with ſafety, and with the truſt and charge lying upon us concerning his perſon.</hi> Now if they pretend but to allow his Majeſtie <hi>all reaſonable freedome that might ſtand with ſafety, &amp;c.</hi> Then I am ſure that they deny him <hi>abſolute freedome:</hi> for the word <hi>reaſonable,</hi> doth li<g ref="char:EOLhyphen"/>mit and reſtraine him: and for the reſt of the phraſe, expreſſing <hi>the truſt and charge lying upon them, &amp;c.</hi> I doe profeſſe my ignorance, that I do not underſtand what is meant thereby, or whence they derive that truſt; and I beleeve it is the intention of the Army, although it be not ſo expreſ<g ref="char:EOLhyphen"/>ſed by their Pen-man, that what they write in this kind, is written to in<g ref="char:EOLhyphen"/>forme the People, and ſhould be eaſie to be underſtood by all that read it.</p>
+            <p>For that wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch followes, I beleeve it not agreeable to reaſon, juſtice, honeſty, or conſcience, ſo to behave themſelves, towards his Majeſtie, as not to render unto his Majeſtie in all things that duty they owe him by the law of God and the Land.</p>
+            <p>I could wiſh the Army had dealt clearly, and told us who are the King<g ref="char:EOLhyphen"/>domes beſt friends: for feare of offending of whom, they had reluctancy when they admitted the Duke of <hi>Richmond</hi> and two Chaplaines to wait on his Majeſtie. And I wonder the Army, or thoſe who penn'd that let<g ref="char:EOLhyphen"/>ter ſhould mention, that <hi>they permitted his Majeſtie to uſe a continued importunitie to procure leave for two of his Chaplaines to wait on him,</hi> it being contrary to the duty of loyall Subjects, and to the Principles of the <hi>Independent Party,</hi> and repugnant to the Armies profeſſion, when they tooke away the King from <hi>Holmby;</hi> For they then pretended to de<g ref="char:EOLhyphen"/>ſire their own liberty of Conſcience, and <hi>did wonder it ſhould be thought, that what they themſelves deſired, they ſhould refuſe to their King.</hi>
+            </p>
+            <p>The Army profeſſeth in this Letter that they avoid harſhnes, and afford kind uſage to his Majeſty, <hi>as the moſt Chriſtian, honourable, and pruden<g ref="char:EOLhyphen"/>tiall
+<pb n="3" facs="tcp:114338:3"/> way wherewith they thinke it fit to uſe his Majeſty;</hi> but they doe not acknowledge that they pay him any reſpect as in duty they ought, hee being their King, and they his Subjects.</p>
+            <p>Theſe things I would gladly ſee reconciled, and be ſatisfyed in, and if it be the ſence of the whole Army, that they doe <hi>with reluctancy afford his Majeſty liberty of Conſcience,</hi> I am ſorry I was ſo miſtaken in their tenents and profeſſions; for I did beleeve otherwiſe of them.</p>
+            <p>And I am of opinion, that as the two Houſes have loſt the affections of the people, becauſe they have rob'd his Majeſty of his ju<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Rights, and deprived the Subjects of their Laws and Liberties, ſo the Army hath got<g ref="char:EOLhyphen"/>ten, and doth now retaine the good opinion of all the Kingdome, becauſe they pretend to reſtore his Majeſty to his juſt Rights, and the Subjects to their Liberties, which are both effected by the reſtitution of our Laws; and when they faile to perform this, they will be deſpiſed as now the two Houſes are.</p>
+            <p>And for the complement which this Letter ſeems to put upon his Ma<g ref="char:EOLhyphen"/>jeſties friends, I am perſwaded they will content themſelves by being made capable to enjoy what the Law affords them, and for this favour I am confident upon the Armies Declaration to reſtore the King and the Lawes, they will all riſe as one man to joyne with them for the accom<g ref="char:EOLhyphen"/>pliſhing of ſo pious a work; which if the Army having ſo fair an opportu<g ref="char:EOLhyphen"/>nity ſhall omit, I am confident God will doe his owne work without them; and raiſe up ſome other forces for that purpoſe, with whom un<g ref="char:EOLhyphen"/>doubtedly the whole Kingdome will joyne, and they who might have been glorious inſtruments for the good of the Kingdome, will be buried in the ruine of their country, without any mention but of infamy and diſhonour.</p>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>I Was ſent unto by the King on Friday laſt, to deſire the Parlia<g ref="char:EOLhyphen"/>ment to give way to him to ſee his Children; and that they might for that purpoſe be ſent to Him: If I may be bold humbly to offer my Opinion, I thinke the allowance of ſuch a thing may be with<g ref="char:EOLhyphen"/>out the leaſt prejudice to the Kingdom, and yet gain more upon His Ma<g ref="char:EOLhyphen"/>jeſty then denying it; and if it be in the prayers of every good man, That His heart may be gained, the performance of ſuch civilities to Him is ve<g ref="char:EOLhyphen"/>ry ſutable to thoſe deſires, and will hear well withall men, who (if they
+<pb n="4" facs="tcp:114338:4"/> can imagine it to be their owne caſe) cannot but be ſorry, if his Maje<g ref="char:EOLhyphen"/>ſties natural affections to his Children, in ſo ſmall a thing ſhould not be complyed with; and if any queſtion ſhould be concerning the aſſurance of their returne, I ſhall ingage for their return within what time the Par<g ref="char:EOLhyphen"/>liament ſhall limit.</p>
+            <p>Upon this occaſion give me leave, I beſeech you, to take notice of ſome Reports ſpread abroad, as if my ſelfe and the Officers of the Army were upon ſome underhand Contract or Bargain with the King; and from thence occaſion is taken to ſlander our Integrities, and endeavour a miſ<g ref="char:EOLhyphen"/>underſtanding betwixt the Parliament and their Army, the fidelity of which to the Parliament and Kingdom, and their affection to it, are the great objects of many mens Envies, becauſe they ſee nothing ſo likely to ſettle Right and Freedom, with Truth and Peace to us and Poſterity, and to hinder their Deſigns againſt the ſame, as an Harmony or good accord between the Parliament and Army, which is the joy of good men, and it ſhall be our ſtudy to preſerve againſt all Deſigns and Deſigners to the contrary.</p>
+            <p>To prevent therefore all miſ-underſtandings of that kinde, I thought fit with all cleareneſſe to declare unto you, That we have done nothing, nor ſhall doe any thing which we deſire to hide from you or the world, or ſhall not avow to the faces of our greateſt Adverſaries.</p>
+            <p>Our Deſires concerning a juſt conſideration and ſettlement of the Kings Rights (His Majeſty firſt giving His concurrence to ſettle and ſe<g ref="char:EOLhyphen"/>cure the Rights and Liberties of the Kingdome) We have already pub<g ref="char:EOLhyphen"/>liquely declared in our Repreſentation and Remonſtrance. Since the firſt of thoſe Papers ſent to the Parliament, there have been ſeverall Offi<g ref="char:EOLhyphen"/>cers of the Army upon ſeverall occaſions ſent to his Majeſty, the firſt to preſent to him a copy of the Repreſentation, and after that ſome others to tender Him a copy of the Remonſtrance; upon both which, the Of<g ref="char:EOLhyphen"/>ficers ſent were appointed to clear the ſence and intention of any thing in either Paper, whereupon His Majeſty might make any queſtion. Since then, there have alſo been ſome Officers at ſeveral times ſent to His Ma<g ref="char:EOLhyphen"/>jeſty about His remove from <hi>Hatfield,</hi> to diſſwade (if poſſibly) from <hi>Windſor</hi> or any place ſo near <hi>London,</hi> to ſome place of further diſtance, anſwerable to what we had deſired of the Parliament.</p>
+            <p>In all which addreſſes to His Majeſty, We care not who knows what hath been ſaid or done; for as we have nothing to bargain for or to ask, either from His Majeſty or the Parliament, for advantage to our ſelves, or any particular party or intereſt of our own; ſo in all thoſe Addreſſes to His Majeſty We have utterly diſclaimed and diſavowed any ſuch
+<pb n="5" facs="tcp:114338:4"/> thing, or any Overtures or Thoughts tending that way; But the onely intent and effect of thoſe our Addreſſes hath been, to deſire and endea<g ref="char:EOLhyphen"/>vour His Majeſties free concurrence with the Parliament, for eſtabliſh<g ref="char:EOLhyphen"/>ing and ſecuring the common Rights and Liberties, and ſetling the peace of the Kingdome; and to aſſure Him, That (the Publique being ſo pro<g ref="char:EOLhyphen"/>vided for, with ſuch His Majeſties concurrence) it is fully agreeable to our Principles, and ſhould be our deſires and endeavour, That (with, and in ſuch ſetling of the Publique) the Rights of His Majeſties Royal Family ſhould be alſo provided for, ſo as a laſting Peace and Agreement might be ſetled in this Nation: And that, as We had publiquely decla<g ref="char:EOLhyphen"/>red for the ſame in generall terms, ſo (if things came to a way of ſettle<g ref="char:EOLhyphen"/>ment) We ſhould not be wanting (in our ſpheres) to own that gene<g ref="char:EOLhyphen"/>ral Deſire, in any particulars of natural or civil right to His Majeſties Per<g ref="char:EOLhyphen"/>ſon or Family, which might not prejudice or again indanger the Pub<g ref="char:EOLhyphen"/>lique: and in the mean time, That His Maieſty ſhould finde all perſo<g ref="char:EOLhyphen"/>nal civilities and reſpects from us, with all reaſonable freedome that might ſtand with ſafety, and with the truſt or charge lying upon us con<g ref="char:EOLhyphen"/>cerning His Perſon.</p>
+            <p>You have here the utmoſt ſumme of what hath paſs'd from us to His Majeſty; and We could wiſh all men did rightly underſtand (without miſrepreſentations) every particular, wherein (as We know nothing not agreeable to Reaſon, Juſtice, Honeſty or Conſcience, ſo) We thought our ſelves concerned the rather to ſay and do, as We have, towards His Majeſty ſince He came within our quarters, becauſe of thoſe common prejudices ſuggeſted againſt us, as if We were utter Enemies to Monar<g ref="char:EOLhyphen"/>chy, and all Civil Order or Government.</p>
+            <p>And for that particular of the Duke of <hi>Richmond</hi> and the Two Chap<g ref="char:EOLhyphen"/>lains lately permitted to attend his Majeſty, It was not done without much reluctancy, becauſe therein We doubted We might be miſunder<g ref="char:EOLhyphen"/>ſtood by the Kingdoms beſt friends.</p>
+            <p>But upon his Majeſties continuing importunity for it, as a thing very nearly concerning His preſent inward and outward contentment; and conceiving thoſe perſons ſuch (as we hoped) would not do ill offices to prejudice the Peace of the Kingdom, We did give way to it, and the perſons (before they came) had notice of the permiſſion: And as we then thought, ſo we ſtill do think, That to allow him ſome ſuch company of perſons leaſt dangerous, whom former acquaintance may make him take pleaſure in; and the allowance of ſome ſuch Chaplains of his own, are things both reaſonable and juſt; and the debarring of that liberty in the latter (We doubt) will but make Him more prejudiced againſt other Miniſters</p>
+            <pb n="6" facs="tcp:114338:5"/>
+            <p>In general, we humbly conceive, that to avoid all harſhneſſe, and afford all kinde uſage to his Majeſties Perſon, in things conſiſting with the Peace and Safety of the Kingdom, is the moſt Chriſtian, Honourable and Pru<g ref="char:EOLhyphen"/>dent way: And in all things (as the Repreſentation and Remonſtrance of the Army doth expreſſe) We think that tender, equitable and mode<g ref="char:EOLhyphen"/>rate dealing, both towards his Majeſty, his Royal Family, and his late party (ſo far as may ſtand with ſafety to the Kingdom, and ſecurity to our common Rights and Liberties) is the moſt hopefull courſe to take away the ſeeds of War or future Feuds amongſt us for poſterity, and to procure a laſting Peace and Agreement in this now diſtracted Nation; To the effecting and ſetling whereof (with a ſecure proviſion firſt to be made for the common Rights and Liberties of the Kingdom, and a due care to preſerve and propagate the Goſpel of Truth &amp; Peace amongſt us) we ſhall hope that neither the Parliament nor his Majeſty will be want<g ref="char:EOLhyphen"/>ing: And if God ſhall ſee it good to make us any way inſtrumental there<g ref="char:EOLhyphen"/>unto, or that we may otherwiſe ſee the ſame accompliſht, we ſhall then think our ſelves indeed diſcharged from the publique ingagements we have been called out unto, more clearly and effectually then (before ſuch things were ſetled) we could have thought our ſelves to be, and (to de<g ref="char:EOLhyphen"/>monſtrate our clearneſſe from ſeeking ſelf-advantages in what we did) we ſhall thenceforth account it our greateſt happineſs and Honor (if God ſee it good) to be diſingaged and diſmiſt, not onely from our Military charges, but from all other matters of Power or publique imployment whatſoever.</p>
+            <p>I have in theſe things ſpoke, not in my own Name alone, but in the Name (becauſe I finde it to be the clear ſenſe of the generality, or at leaſt of the moſt conſiderable part) of the Army, and I am confident you and the Kingdom wil never find it otherwiſe: I ſhall leave it to your favorable conſtruction, and commit all to the goodneſs of God for an happy iſſue. I remain</p>
+            <closer>
+               <dateline>Reading,
+<date>July 8. 1647.</date>
+               </dateline>
+               <signed>Your moſt humble Servant, <hi>T. Fairfax</hi>
+               </signed>
+            </closer>
+            <trailer>For the Right Honourable, the Lords and Commons aſſembled in Parliament.</trailer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
